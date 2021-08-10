@@ -1,0 +1,28 @@
+{
+  "name": "backend-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul7668gupta/node-backend-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul7668gupta/node-backend-boilerplate/issues"
+  },
+  "homepage": "https://github.com/rahul7668gupta/node-backend-boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.6",
+    "nodemon": "^2.0.12"
+  }
+}
